@@ -177,3 +177,5 @@ const transportation = data.reduce((object, item) => {
 	return object
 }, {})
 console.table(transportation)
+
+// challenge complete
