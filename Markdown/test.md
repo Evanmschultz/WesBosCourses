@@ -70,12 +70,84 @@ My [portfolio][portfolio] site can be found by clicking the word portfolio.
             ______________________________________________ -->
 
 ```python
-    x = 'variable'
+x = 'variable'
 ```
 
 ```js
 let x = 'variable';
 ```
+
+Inline code `x = 'code'`!
+
+### Show the difference
+
+Unfortunately it isn't working in VS Code, should highlight the old one with red and the new with green.
+
+```diff
+def function(arg):
+    - old = 'old'
+    + new = 'new'
+```
+
+<!-- ______ Line breaks, horizontal rules, and block quotes
+            ______________________________________________ -->
+
+## Line breaks
+
+This is won't
+break!
+
+This<br>
+will
+
+Also
+
+This, but maybe by too much
+
+## Horizontal rule
+
+You want an underline separating
+
+---
+
+your text use three dashes
+
+## Block quote
+
+> This is a quote -
+> Some Person
+>
+> New quote
+>
+> > **Another Person**
+
+> With separation - The First Person
+
+Added context
+
+> Newest quote - Same Other Person
+
+<!-- ______ Tables
+            ______________________________________________ -->
+
+## Tables
+
+| Column 1 | Column 2 |
+| :------- | :------- |
+| Row 1    | Value 1  |
+| Row 2    | Value 2  |
+
+| Centered | Right Align |
+| :------: | ----------: |
+|  Row 1   |     Value 1 |
+|  Row 2   |     Value 2 |
+
+<!-- ______ Extras
+            ______________________________________________ -->
+
+-   [ ] Something to do
+-   [x] Another thing
+-   [ ] And a third
 
 <!-- ______ Link Variables
             ______________________________________________ -->
