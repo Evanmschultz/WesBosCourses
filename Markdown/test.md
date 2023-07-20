@@ -152,5 +152,5 @@ Added context
 <!-- ______ Link Variables
             ______________________________________________ -->
 
-[portfolio]: https//postulate.com 'My portfolio website'
+[portfolio]: https://postulate.tech 'My portfolio website'
 [photo_1]: https://unsplash.it/500/500?random 'this is the tooltip text'
